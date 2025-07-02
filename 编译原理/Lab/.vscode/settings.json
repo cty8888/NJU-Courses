@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "classes",
+    "java.project.referencedLibraries": [
+        "/usr/local/lib/antlr-4.9.1-complete.jar",
+        "/usr/local/lib/llvm4j-0.1.1-SNAPSHOT.jar",
+        "/usr/local/lib/llvm-13.0.1-1.5.7.jar",
+        "/usr/local/lib/llvm-13.0.1-1.5.7-linux-x86_64.jar",
+        "/usr/local/lib/llvm-platform-13.0.1-1.5.7.jar",
+        "/usr/local/lib/kotlin-stdlib-1.9.0.jar",
+        "/usr/local/lib/javacpp-1.5.7.jar",
+        "/usr/local/lib/javacpp-1.5.7-linux-x86_64.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+}
